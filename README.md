@@ -5,9 +5,9 @@ Respository to explore the kaggle dataset, including visualisation and implement
 * Logistic regression
 * Naive Bayes
 * Decision tree models
-* * Basic decision tree
-* * Random forest
-* * XGBoost
+  * Basic decision tree
+  * Random forest
+  * XGBoost
 
 Data
 The data is from the kaggle titanic dataset, which can be found at https://www.kaggle.com/c/titanic/data
