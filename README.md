@@ -1,6 +1,6 @@
 # kaggleTitanic
 
-# Summary 
+## Summary 
 Respository to explore the kaggle dataset, including visualisation and implementation of various ML techniques to better predict who survives. Techniques used include:
 * Logistic regression
 * Naive Bayes
